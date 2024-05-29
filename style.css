@@ -1,0 +1,10 @@
+table { width: 100%; border-collapse: collapse; margin-top: 30px; }
+table, th, td { border: 1px solid black; }
+th, td { padding: 10px; text-align: left; }
+#crudTableBody{ background-color: gray;}
+button:hover{background-color: green;}
+#editbtn{background-color: aqua;  border-radius: 7px;}
+#eliminarbtn{background-color: red; border-radius: 7px;}
+h1{color: purple}
+table{background-color: blue; color:white;}
+body{font-family: Arial, Helvetica, sans-serif;}
